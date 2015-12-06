@@ -1,6 +1,6 @@
 {
-  "name": "star-wars-name",
-  "version": "1.0.0",
+  "name": "etrivinos-star-wars-name",
+  "version": "1.2.0",
   "description": "Get random Star Wars names",
   "main": "src/index.js",
   "scripts": {
